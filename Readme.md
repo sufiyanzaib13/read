@@ -1,4 +1,4 @@
-# ** Car Pooling App Backend - API Documentation **
+# Car Pooling App Backend - API Documentation
 # H1 Heading (Sabse Bada)
 **### Base URL**
 
