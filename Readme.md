@@ -74,9 +74,9 @@ Include the token in the Authorization header:
 
 - `500 Internal Server Error`: If there is a server-side error.
 
-**#### 2. Ride Management**
+#### 2. Ride Management
 
-**##### 2.1 Create a New Ride**
+#### 2.1 Create a New Ride
 
 **Endpoint:** POST `/rides`
 
@@ -117,7 +117,7 @@ Include the token in the Authorization header:
 
 - `500 Internal Server Error`: If there is a server-side error.
 
-**##### 2.2 Get Available Rides**
+#### 2.2 Get Available Rides
 
 **Endpoint:** GET `/rides`
 
@@ -144,7 +144,7 @@ Include the token in the Authorization header:
 
 - `500 Internal Server Error`: If there is a server-side error.
 
-**##### 2.3 Book a Ride**
+#### 2.3 Book a Ride
 
 **Endpoint:** POST `/rides/book`
 
@@ -192,9 +192,9 @@ Include the token in the Authorization header:
 
 - `500 Internal Server Error`: If there is a server-side error.
 
-**#### 3. Rating Management**
+#### 3. Rating Management
 
-**##### 3.1 Add a Rating**
+#### 3.1 Add a Rating
 
 **Endpoint:** POST `/ratings`
 
@@ -229,7 +229,7 @@ Include the token in the Authorization header:
 
 - `500 Internal Server Error`: If there is a server-side error.
 
-**##### 3.2 Get Ratings for a User**
+**#### 3.2 Get Ratings for a User**
 
 **Endpoint:** GET `/ratings/:userId`
 
