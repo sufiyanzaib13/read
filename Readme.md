@@ -18,7 +18,7 @@ Include the token in the Authorization header:
 
 #### 1. User Management
 
-##### **1.1 Register a New User**
+#### 1.1 Register a New User
 
 **Endpoint:** POST `/users/register`
 
