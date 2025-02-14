@@ -1,10 +1,10 @@
 # Car Pooling App Backend - API Documentation
-# H1 Heading (Sabse Bada)
-**### Base URL**
+
+### Base URL
 
 `http://localhost:3000/api`
 
-**### Authentication**
+### Authentication
 
 Most APIs require authentication using a JWT (JSON Web Token).
 
@@ -14,11 +14,11 @@ Include the token in the Authorization header:
 
 `Authorization: Bearer <token>`
 
-**### API Endpoints**
+### API Endpoints
 
-**#### 1. User Management**
+#### 1. User Management
 
-**##### 1.1 Register a New User**
+##### **1.1 Register a New User**
 
 **Endpoint:** POST `/users/register`
 
